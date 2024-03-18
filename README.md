@@ -66,11 +66,11 @@ endmodule
 
 **Truthtable**
 
-
+![image](https://github.com/varshinidevaraju/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870750/57077884-2c8e-4a07-834a-d66ae21d06b3)
 
 **Timing Diagram**
 
-
+![image](https://github.com/varshinidevaraju/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870750/502c9dff-40d0-4348-bac0-a3e2aedd1204)
 
 **Result:**
 
