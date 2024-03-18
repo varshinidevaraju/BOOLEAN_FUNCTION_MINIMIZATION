@@ -60,18 +60,17 @@ endmodule
 
 ```
 
-
 **RTL realization**
 
-![image](https://github.com/varshinidevaraju/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870750/692d125e-c638-4199-92bf-c77d11222908)
+![image](https://github.com/varshinidevaraju/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870750/e24ba43c-ed15-47fd-af1d-92b8c937064f)
 
 **Truthtable**
 
-![image](https://github.com/varshinidevaraju/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870750/cded3525-e9e9-48da-bdf6-230f95c7002d)
+
 
 **Timing Diagram**
 
-![image](https://github.com/varshinidevaraju/BOOLEAN_FUNCTION_MINIMIZATION/assets/144870750/c228bd98-3f3d-4383-b8ec-75b9433b1760)
+
 
 **Result:**
 
